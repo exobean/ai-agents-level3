@@ -1,0 +1,11 @@
+Code companion licence: Hands-On AI Agents, Level 3
+Copyright (c) 2026 Exobean Engineering. All rights reserved.
+
+You may use, change and run this code for your own learning, and you may
+reuse it inside your own software projects, including commercial ones.
+
+You may not redistribute, publish, sell or share this companion, in whole
+or in part, as learning material, course content or training data.
+
+The code is provided "as is", without warranty of any kind. Exobean
+Engineering is not liable for any loss or damage arising from its use.
